@@ -1,9 +1,9 @@
 "use strict";
 
-const heroName = "Ajoe the Warrior";
-const studentId = "12345678";
-const power = Number(studentId) * 7;
-const warcry = "By the Nile, the Sand Kraken falls!";
+const heroName = "youssef mohamed abdelbaset the Warrior";
+const studentId = "16001329";
+const power = Number(studentId) * 2;
+const warcry = "\"By Siwa oasis, the Dragon burns out!\"";
 
 console.log(heroName);
 console.log(studentId);
