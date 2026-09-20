@@ -1,10 +1,10 @@
 # Quest Log
 
-Hero: Ajoe the Warrior
-Student ID: 12345678
-GitHub account: ng-giu
+Hero: youssef mohamed abdelbaset the Warrior
+Student ID: 16001329
+GitHub account: yousef780
 
-A **Sand Kraken** bars the way near **the Nile**. It only falls to
+A **Dragon** bars the way near **Siwa oasis**. It only falls to
 the exact blow.
 
 ## Your trial
@@ -14,17 +14,17 @@ Create `solution.js` in this same folder (`assignment/`). When run with
 
 1. Your hero name
 2. Your student ID
-3. Your power — your student ID **multiplied by 7**
+3. Your power — your student ID **multiplied by 2**
 4. Your warcry — copy the line below exactly, including punctuation:
 
-   "By the Nile, the Sand Kraken falls!"
+   "By Siwa oasis, the Dragon burns out!"
 
 ### Worked example (not your answer — this uses a placeholder ID)
 
 If your student ID were `11111111` (it isn't), line 3 would be:
 
 ```
-77777777
+22222222
 ```
 
 Use your *real* student ID above, not the placeholder.
